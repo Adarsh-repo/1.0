@@ -4,3 +4,5 @@ welcome to the game
 
 choice
 tag
+lock and key
+thank you
